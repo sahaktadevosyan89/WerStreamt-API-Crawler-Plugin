@@ -1,0 +1,18 @@
+{
+  "name": "werstreamt-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node werstreamt.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "app-module-path": "^1.1.0",
+    "ascii-progress": "^1.0.3",
+    "mysql": "^2.11.1",
+    "sequelize": "^3.24.3",
+    "superagent": "^2.3.0"
+  }
+}
